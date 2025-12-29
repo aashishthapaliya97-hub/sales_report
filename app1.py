@@ -204,9 +204,10 @@ st.markdown(f"""
 * **The "Top Two" Dominance:** Phones and Laptops are the consistent top sellers across all regions. 
 * **Regional Preferences:** In the **North and East**, Phones are the #1 revenue generator. In the **South and West**, Laptops take the lead.
 * **Mid-Tier Revenue:** Tablets and Monitors contribute a noticeable share of revenue, representing the mid-range price point.
-* **Volume vs. Value:** Chargers and Mice bring in the least revenue. This is likely because they are low-priced accessory products compared to high-value electronics.
+* **Volume vs. Value:** Chargers and Mouse bring in the least revenue. This is likely because they are low-priced accessory products compared to high-value electronics.
 """)
 
 st.divider()
+
 
 st.divider()
